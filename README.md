@@ -110,7 +110,7 @@ O modelo Random Forest foi o melhor dentre todos os modelos criados. No entanto,
 
 # Conclusões:
 
-O modelo de previsão XGBoost foi escolhido porque pode ser treinado mais rapidamente do que um modelo Random Forest usando uma GPU. O modelo utilizado na implantação não foi o melhor, mas é consideravelmente menor que os demais, pois possui um número menor de estimadores, e as métricas de erro não estão tão distantes do melhor modelo. Um chat bot que responde ao faturamentos de cada uma das lojas pelas próximas 6 semanas também foi desenvolvido para funcionar como uma ferramenta de visualização.
+O modelo de previsão XGBoost foi escolhido porque pode ser treinado mais rapidamente do que um modelo Random Forest usando uma GPU. O modelo utilizado na implantação não foi o melhor, mas é consideravelmente menor que os demais, pois possui um número menor de estimadores, e as métricas de erro não estão tão distantes do melhor modelo. Um chat bot como forma de visualização foi desenvolvido para demonstrar o faturamento de cada uma das lojas pelas próximas 6 semanas.
 
 # Telegram Chat Bot:
 
